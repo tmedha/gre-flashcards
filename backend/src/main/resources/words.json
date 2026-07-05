@@ -1,0 +1,3251 @@
+[
+  {
+    "word": "Abase",
+    "definition": "Degrade or humble; to lower in rank, status, or esteem.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "He refused to abase himself by begging for the promotion."
+    ]
+  },
+  {
+    "word": "Abate",
+    "definition": "Reduce or diminish in intensity.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "The storm finally began to abate by nightfall."
+    ]
+  },
+  {
+    "word": "Aberrant",
+    "definition": "Abnormal, deviant; straying from the usual or expected.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The scientist flagged the aberrant reading for a second review."
+    ]
+  },
+  {
+    "word": "Abhor",
+    "definition": "Detest; regard with disgust.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "She abhors any form of cruelty toward animals."
+    ]
+  },
+  {
+    "word": "Abjure",
+    "definition": "Give up or renounce, especially formally or under oath.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The knight was forced to abjure his allegiance to the deposed king."
+    ]
+  },
+  {
+    "word": "Abscond",
+    "definition": "Depart suddenly and secretly, typically to avoid capture.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The treasurer absconded with the company's funds before the audit."
+    ]
+  },
+  {
+    "word": "Abstain",
+    "definition": "Hold back or refrain, especially from something bad; decline to vote.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "Three council members chose to abstain from the controversial vote."
+    ]
+  },
+  {
+    "word": "Acumen",
+    "definition": "Keen, quick, accurate insight or judgment.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Her business acumen turned the failing startup into a success."
+    ]
+  },
+  {
+    "word": "Admonish",
+    "definition": "Mildly scold; caution, advise, or remind to do something.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The teacher admonished the students for their careless work."
+    ]
+  },
+  {
+    "word": "Adulterate",
+    "definition": "Make impure by adding inappropriate or inferior ingredients.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The vendor was fined for adulterating the honey with cheap syrup."
+    ]
+  },
+  {
+    "word": "Adverse",
+    "definition": "Opposing or harmful; unfavorable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The medication was withdrawn after several adverse reactions."
+    ]
+  },
+  {
+    "word": "Aesthetic",
+    "definition": "Concerning the appreciation of beauty or good taste.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The building's aesthetic appeal masked its poor construction."
+    ]
+  },
+  {
+    "word": "Affable",
+    "definition": "Warm, friendly, pleasant, and approachable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The affable host made every guest feel welcome."
+    ]
+  },
+  {
+    "word": "Aggrandize",
+    "definition": "Make greater; exaggerate or inflate in power or reputation.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The dictator built monuments to aggrandize his own legacy."
+    ]
+  },
+  {
+    "word": "Alacrity",
+    "definition": "Cheerful or speedy willingness; brisk eagerness.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "She accepted the challenge with surprising alacrity."
+    ]
+  },
+  {
+    "word": "Alleviate",
+    "definition": "Lessen; make easier to endure.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "The new bridge did much to alleviate the city's traffic."
+    ]
+  },
+  {
+    "word": "Aloof",
+    "definition": "Distant physically or emotionally; reserved, indifferent.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He remained aloof from the office gossip."
+    ]
+  },
+  {
+    "word": "Amalgamate",
+    "definition": "Blend, merge, or unite into a single whole.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The two banks amalgamated to form a single institution."
+    ]
+  },
+  {
+    "word": "Ambiguous",
+    "definition": "Unclear or open to more than one interpretation.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The contract's ambiguous wording led to a lawsuit."
+    ]
+  },
+  {
+    "word": "Ambivalent",
+    "definition": "Uncertain; having mixed or contradictory feelings.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She felt ambivalent about leaving her hometown for the job."
+    ]
+  },
+  {
+    "word": "Ameliorate",
+    "definition": "Improve; make better or more bearable.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The new policy was meant to ameliorate the workers' conditions."
+    ]
+  },
+  {
+    "word": "Anachronism",
+    "definition": "Something out of its correct historical time.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The wristwatch in the ancient-Rome film was a glaring anachronism."
+    ]
+  },
+  {
+    "word": "Analogous",
+    "definition": "Comparable; corresponding in some particular way.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The heart is analogous to a pump that circulates fluid."
+    ]
+  },
+  {
+    "word": "Anomaly",
+    "definition": "A deviation from what is common or expected; inconsistency.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The data point was an anomaly the team could not explain."
+    ]
+  },
+  {
+    "word": "Antithetical",
+    "definition": "Directly opposed; contrasting sharply.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His reckless spending was antithetical to her frugal habits."
+    ]
+  },
+  {
+    "word": "Apathy",
+    "definition": "Lack of feeling, interest, or concern; indifference.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Voter apathy led to a record-low turnout."
+    ]
+  },
+  {
+    "word": "Apocryphal",
+    "definition": "Of questionable authenticity; probably false.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The story of his heroism turned out to be apocryphal."
+    ]
+  },
+  {
+    "word": "Approbation",
+    "definition": "Praise or approval, especially formal approval.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The proposal won the approbation of the entire board."
+    ]
+  },
+  {
+    "word": "Arbiter",
+    "definition": "A judge or umpire empowered to decide a disputed matter.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The committee served as the final arbiter of the contest."
+    ]
+  },
+  {
+    "word": "Arcane",
+    "definition": "Understood by only a few; obscure or secret.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He delighted in the arcane rules of medieval heraldry."
+    ]
+  },
+  {
+    "word": "Archaic",
+    "definition": "Characteristic of an earlier period; ancient or outdated.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The law relied on archaic language no one still used."
+    ]
+  },
+  {
+    "word": "Ardent",
+    "definition": "Very passionate, devoted, or enthusiastic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She was an ardent supporter of the reform movement."
+    ]
+  },
+  {
+    "word": "Arduous",
+    "definition": "Very difficult and strenuous; hard to endure.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The arduous climb exhausted even the fittest hikers."
+    ]
+  },
+  {
+    "word": "Articulate",
+    "definition": "Using language clearly and fluently; to express distinctly.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "She gave an articulate defense of her thesis."
+    ]
+  },
+  {
+    "word": "Artless",
+    "definition": "Free of deceit or craft; natural and genuine.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His artless honesty won over the wary jury."
+    ]
+  },
+  {
+    "word": "Ascetic",
+    "definition": "Practicing severe self-discipline and abstaining from pleasure.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The monk led an ascetic life of prayer and fasting."
+    ]
+  },
+  {
+    "word": "Assiduous",
+    "definition": "Persevering, diligent, and constant in effort.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Her assiduous note-taking paid off at exam time."
+    ]
+  },
+  {
+    "word": "Assuage",
+    "definition": "Make milder; relieve, soothe, or pacify.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "A sincere apology did little to assuage her anger."
+    ]
+  },
+  {
+    "word": "Audacious",
+    "definition": "Very bold or daring, sometimes recklessly so.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The startup made an audacious bid for the market leader."
+    ]
+  },
+  {
+    "word": "Augment",
+    "definition": "Make larger; increase or add to.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "He took a second job to augment his income."
+    ]
+  },
+  {
+    "word": "Austere",
+    "definition": "Severe in manner or appearance; without luxury or ease.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The room was austere, furnished with only a cot and a desk."
+    ]
+  },
+  {
+    "word": "Autonomous",
+    "definition": "Self-governing and independent.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The region became autonomous after the treaty was signed."
+    ]
+  },
+  {
+    "word": "Avarice",
+    "definition": "Insatiable greed; a miserly desire to hoard wealth.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "His avarice drove him to cheat his own family."
+    ]
+  },
+  {
+    "word": "Aver",
+    "definition": "Declare or affirm with confidence.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The witness averred that she had seen the whole event."
+    ]
+  },
+  {
+    "word": "Banal",
+    "definition": "Lacking freshness or originality; predictable and cliché.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The speech was full of banal remarks about teamwork."
+    ]
+  },
+  {
+    "word": "Belie",
+    "definition": "Contradict or misrepresent; give a false impression of.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Her calm face belied the panic she felt inside."
+    ]
+  },
+  {
+    "word": "Bolster",
+    "definition": "Strengthen or support; prop up.",
+    "partOfSpeech": "verb",
+    "difficulty": 2,
+    "examples": [
+      "New evidence bolstered the prosecution's case."
+    ]
+  },
+  {
+    "word": "Bombastic",
+    "definition": "Far more showy or dramatic in speech than is warranted; pompous.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The senator's bombastic speech impressed no one."
+    ]
+  },
+  {
+    "word": "Boor",
+    "definition": "A rude, ill-mannered, or insensitive person.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Only a boor would ignore the host so pointedly."
+    ]
+  },
+  {
+    "word": "Bucolic",
+    "definition": "Relating to the pleasant aspects of the countryside; rural.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The painting captured a bucolic scene of grazing sheep."
+    ]
+  },
+  {
+    "word": "Burgeon",
+    "definition": "Grow or flourish rapidly.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The town's population burgeoned after the factory opened."
+    ]
+  },
+  {
+    "word": "Cacophony",
+    "definition": "A harsh, discordant mixture of sounds.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "A cacophony of car horns rose from the gridlocked street."
+    ]
+  },
+  {
+    "word": "Candid",
+    "definition": "Open, sincere, and honest.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "She was refreshingly candid about her own failures."
+    ]
+  },
+  {
+    "word": "Capricious",
+    "definition": "Acting on impulse; erratic and unpredictable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The capricious weather ruined their outdoor plans."
+    ]
+  },
+  {
+    "word": "Castigate",
+    "definition": "Criticize severely; punish in order to correct.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The columnist castigated the mayor for ignoring the report."
+    ]
+  },
+  {
+    "word": "Catalyst",
+    "definition": "Something that causes or accelerates change.",
+    "partOfSpeech": "noun",
+    "difficulty": 2,
+    "examples": [
+      "The protest became a catalyst for sweeping reform."
+    ]
+  },
+  {
+    "word": "Caustic",
+    "definition": "Capable of burning; very critical or sarcastic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His caustic wit could deflate anyone's confidence."
+    ]
+  },
+  {
+    "word": "Censure",
+    "definition": "Strong disapproval or official reprimand.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The senator faced censure for violating ethics rules."
+    ]
+  },
+  {
+    "word": "Chicanery",
+    "definition": "Trickery; deception by false or clever arguments.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The deal collapsed once the lawyer's chicanery came to light."
+    ]
+  },
+  {
+    "word": "Circumspect",
+    "definition": "Cautious and prudent; careful of consequences.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Investors grew circumspect after the market's sudden drop."
+    ]
+  },
+  {
+    "word": "Coalesce",
+    "definition": "Come together and unite; fuse into a whole.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The scattered groups coalesced into a single movement."
+    ]
+  },
+  {
+    "word": "Cogent",
+    "definition": "Clear, logical, and convincing.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He made a cogent argument for reforming the tax code."
+    ]
+  },
+  {
+    "word": "Complacent",
+    "definition": "Self-satisfied and smug; overly content and unmotivated.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Years of easy profits made the company complacent."
+    ]
+  },
+  {
+    "word": "Complaisant",
+    "definition": "Eager to please; cheerfully compliant.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The complaisant clerk agreed to every request without protest."
+    ]
+  },
+  {
+    "word": "Conciliatory",
+    "definition": "Intended to appease or make peace.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "She struck a conciliatory tone to end the feud."
+    ]
+  },
+  {
+    "word": "Condone",
+    "definition": "Overlook, tolerate, or treat as acceptable.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The school will not condone cheating of any kind."
+    ]
+  },
+  {
+    "word": "Connoisseur",
+    "definition": "An expert of refined taste, especially in the fine arts.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "A true connoisseur, she could name the vintage by taste alone."
+    ]
+  },
+  {
+    "word": "Contrite",
+    "definition": "Remorseful; feeling sorry for one's wrongdoing.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He wrote a contrite letter apologizing for the damage."
+    ]
+  },
+  {
+    "word": "Conundrum",
+    "definition": "A confusing problem or riddle with no easy answer.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Balancing growth and privacy is a modern conundrum."
+    ]
+  },
+  {
+    "word": "Convoluted",
+    "definition": "Twisted; extremely complicated and hard to follow.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The plot was so convoluted that viewers lost track."
+    ]
+  },
+  {
+    "word": "Copious",
+    "definition": "Plentiful; present in large quantities.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She took copious notes during the lecture."
+    ]
+  },
+  {
+    "word": "Corroborate",
+    "definition": "Support or confirm with evidence.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "A second witness corroborated her account of the accident."
+    ]
+  },
+  {
+    "word": "Craven",
+    "definition": "Contemptibly cowardly; lacking courage.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His craven silence during the debate cost him the vote."
+    ]
+  },
+  {
+    "word": "Credulous",
+    "definition": "Gullible; too ready to believe without evidence.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The scam preyed on credulous first-time investors."
+    ]
+  },
+  {
+    "word": "Cynical",
+    "definition": "Distrustful of others' motives; bitterly pessimistic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Years in politics left him cynical about promises."
+    ]
+  },
+  {
+    "word": "Daunt",
+    "definition": "Discourage or dishearten; lessen the courage of.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The steep learning curve did not daunt her."
+    ]
+  },
+  {
+    "word": "Debase",
+    "definition": "Degrade; lower in quality, value, or moral character.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Flooding the market with copies debased the artist's work."
+    ]
+  },
+  {
+    "word": "Debunk",
+    "definition": "Expose or disprove false or exaggerated claims.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The study debunked the myth that the diet cured illness."
+    ]
+  },
+  {
+    "word": "Decorous",
+    "definition": "Behaving with propriety and good taste; polite.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The guests kept a decorous silence during the ceremony."
+    ]
+  },
+  {
+    "word": "Deference",
+    "definition": "Respectful submission; yielding to another's authority or opinion.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Out of deference to her elders, she said nothing."
+    ]
+  },
+  {
+    "word": "Deleterious",
+    "definition": "Harmful or damaging, often gradually.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Smoking has a deleterious effect on the lungs."
+    ]
+  },
+  {
+    "word": "Denigrate",
+    "definition": "Belittle; attack the reputation of.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "He tried to denigrate his rival's achievements."
+    ]
+  },
+  {
+    "word": "Deride",
+    "definition": "Mock or ridicule; laugh at contemptuously.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Critics derided the film as shallow and clumsy."
+    ]
+  },
+  {
+    "word": "Derivative",
+    "definition": "Imitative of others' work; not original.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The album was dismissed as derivative and dull."
+    ]
+  },
+  {
+    "word": "Desiccate",
+    "definition": "Dry out thoroughly; dehydrate.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "The relentless sun desiccated the once-fertile plain."
+    ]
+  },
+  {
+    "word": "Desultory",
+    "definition": "Lacking order or consistency; aimless and disconnected.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "He made only a desultory effort to clean the room."
+    ]
+  },
+  {
+    "word": "Diatribe",
+    "definition": "A bitter, abusive attack or criticism; a rant.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "Her review turned into a diatribe against modern art."
+    ]
+  },
+  {
+    "word": "Dichotomy",
+    "definition": "A division into two opposed or contradictory groups.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "He rejected the dichotomy between work and play."
+    ]
+  },
+  {
+    "word": "Didactic",
+    "definition": "Intended to instruct, often with a moral lesson.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The novel is too didactic, lecturing at every turn."
+    ]
+  },
+  {
+    "word": "Diffident",
+    "definition": "Lacking self-confidence; shy and modest.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The diffident student rarely spoke up in class."
+    ]
+  },
+  {
+    "word": "Diffuse",
+    "definition": "Spread out widely; wordy and unfocused.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His diffuse argument never reached a clear point."
+    ]
+  },
+  {
+    "word": "Digress",
+    "definition": "Stray from the main topic when speaking or writing.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The lecturer digressed into a long personal story."
+    ]
+  },
+  {
+    "word": "Dilatory",
+    "definition": "Slow or late; tending to procrastinate or stall.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "Their dilatory tactics delayed the trial for months."
+    ]
+  },
+  {
+    "word": "Dilettante",
+    "definition": "One who dabbles in an art or field superficially.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "He was a dilettante who never finished a single painting."
+    ]
+  },
+  {
+    "word": "Disabuse",
+    "definition": "Free someone from a mistaken belief.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Let me disabuse you of the idea that this will be easy."
+    ]
+  },
+  {
+    "word": "Discerning",
+    "definition": "Having good judgment or insight; perceptive.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "A discerning editor caught the subtle error."
+    ]
+  },
+  {
+    "word": "Discordant",
+    "definition": "Harsh and inharmonious; conflicting.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The committee's discordant voices drowned out any plan."
+    ]
+  },
+  {
+    "word": "Discrepancy",
+    "definition": "A difference or inconsistency.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The auditor noticed a discrepancy in the accounts."
+    ]
+  },
+  {
+    "word": "Discrete",
+    "definition": "Separate and distinct; existing as individual parts.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The process breaks into five discrete stages."
+    ]
+  },
+  {
+    "word": "Disingenuous",
+    "definition": "Insincere; not genuinely honest.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "It was disingenuous of him to feign surprise."
+    ]
+  },
+  {
+    "word": "Disinterested",
+    "definition": "Unbiased and impartial; free of personal stake.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "A disinterested referee was brought in to settle the dispute."
+    ]
+  },
+  {
+    "word": "Disparage",
+    "definition": "Belittle or put down; speak of slightingly.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "She never disparaged her competitors in public."
+    ]
+  },
+  {
+    "word": "Disparate",
+    "definition": "Fundamentally different; not comparable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The report drew on disparate sources of data."
+    ]
+  },
+  {
+    "word": "Dispassionate",
+    "definition": "Calm and unbiased; free from emotion.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The judge gave a dispassionate account of the facts."
+    ]
+  },
+  {
+    "word": "Disseminate",
+    "definition": "Scatter or spread widely; broadcast.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The agency disseminated the warning across the region."
+    ]
+  },
+  {
+    "word": "Dissent",
+    "definition": "Disagree or hold an opposing view, especially formally.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Two justices dissented from the majority ruling."
+    ]
+  },
+  {
+    "word": "Dissemble",
+    "definition": "Conceal the truth or one's true feelings; put on a false appearance.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "He dissembled his disappointment behind a wide smile."
+    ]
+  },
+  {
+    "word": "Dogma",
+    "definition": "A principle laid down by authority as unquestionably true.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "She refused to accept the party's dogma without question."
+    ]
+  },
+  {
+    "word": "Dormant",
+    "definition": "Asleep or inactive; temporarily not functioning.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The volcano had lain dormant for a century."
+    ]
+  },
+  {
+    "word": "Dubious",
+    "definition": "Doubtful, questionable, or suspect.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The claim rested on dubious evidence."
+    ]
+  },
+  {
+    "word": "Duplicity",
+    "definition": "Deceit; double-dealing to mislead others.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "His duplicity was revealed when both letters surfaced."
+    ]
+  },
+  {
+    "word": "Ebullient",
+    "definition": "Cheerful and full of energy; exuberant.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The ebullient host greeted every guest with a hug."
+    ]
+  },
+  {
+    "word": "Eccentric",
+    "definition": "Peculiar or odd; deviating from convention.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Her eccentric habits made her the talk of the office."
+    ]
+  },
+  {
+    "word": "Eclectic",
+    "definition": "Drawing from a broad, diverse range of sources.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "His eclectic taste in music ranged from opera to punk."
+    ]
+  },
+  {
+    "word": "Efficacy",
+    "definition": "The ability to produce a desired result.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Trials confirmed the efficacy of the new vaccine."
+    ]
+  },
+  {
+    "word": "Effrontery",
+    "definition": "Shameless boldness; audacity.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "He had the effrontery to demand a raise after failing."
+    ]
+  },
+  {
+    "word": "Egregious",
+    "definition": "Outstandingly or conspicuously bad; glaring.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The report exposed an egregious abuse of power."
+    ]
+  },
+  {
+    "word": "Elicit",
+    "definition": "Call forth or draw out a response.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The question elicited an unexpected confession."
+    ]
+  },
+  {
+    "word": "Eloquent",
+    "definition": "Fluent and persuasive in speech; emotionally moving.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Her eloquent plea swayed the entire jury."
+    ]
+  },
+  {
+    "word": "Embellish",
+    "definition": "Decorate or adorn; enhance a story with invented details.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "He embellished the tale until it was barely true."
+    ]
+  },
+  {
+    "word": "Eminent",
+    "definition": "Prominent, distinguished, and of high rank.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "An eminent scholar was invited to give the address."
+    ]
+  },
+  {
+    "word": "Empirical",
+    "definition": "Based on observation or experiment rather than theory.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The hypothesis still lacks empirical support."
+    ]
+  },
+  {
+    "word": "Emulate",
+    "definition": "Imitate in an effort to equal or surpass.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Young writers often emulate their favorite authors."
+    ]
+  },
+  {
+    "word": "Enervate",
+    "definition": "Drain of energy or vitality; weaken.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "The relentless heat enervated the marchers."
+    ]
+  },
+  {
+    "word": "Engender",
+    "definition": "Produce or give rise to; cause to exist.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The decision engendered fierce debate."
+    ]
+  },
+  {
+    "word": "Enigma",
+    "definition": "A puzzle or mystery; a baffling person or thing.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "His sudden disappearance remains an enigma."
+    ]
+  },
+  {
+    "word": "Ephemeral",
+    "definition": "Lasting only a short time; fleeting.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The ephemeral beauty of the blossoms draws crowds each spring."
+    ]
+  },
+  {
+    "word": "Equanimity",
+    "definition": "Calmness and composure, especially under stress.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "She faced the crisis with remarkable equanimity."
+    ]
+  },
+  {
+    "word": "Equivocate",
+    "definition": "Use ambiguous language to avoid committing or to deceive.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The spokesman equivocated when asked about the layoffs."
+    ]
+  },
+  {
+    "word": "Erudite",
+    "definition": "Scholarly; possessing deep knowledge.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The erudite professor could quote poetry in six languages."
+    ]
+  },
+  {
+    "word": "Eschew",
+    "definition": "Deliberately avoid or abstain from.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "He eschews social media entirely."
+    ]
+  },
+  {
+    "word": "Esoteric",
+    "definition": "Understood by or intended for only a few.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The lecture was too esoteric for a general audience."
+    ]
+  },
+  {
+    "word": "Ethos",
+    "definition": "The characteristic spirit or moral values of a group.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "Hard work is central to the company's ethos."
+    ]
+  },
+  {
+    "word": "Eulogy",
+    "definition": "A speech or writing of high praise, especially for the dead.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "She delivered a moving eulogy at the funeral."
+    ]
+  },
+  {
+    "word": "Euphemism",
+    "definition": "A mild expression substituted for a harsh or blunt one.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "\"Let go\" is a common euphemism for being fired."
+    ]
+  },
+  {
+    "word": "Exacerbate",
+    "definition": "Make a problem or bad situation worse.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The tax hike only exacerbated the region's poverty."
+    ]
+  },
+  {
+    "word": "Exculpate",
+    "definition": "Clear from guilt or blame.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "New evidence exculpated the wrongly accused man."
+    ]
+  },
+  {
+    "word": "Exigent",
+    "definition": "Requiring immediate attention; pressing or demanding.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The exigent circumstances forced a quick decision."
+    ]
+  },
+  {
+    "word": "Exonerate",
+    "definition": "Clear from an accusation or responsibility.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The inquiry exonerated the pilot of any fault."
+    ]
+  },
+  {
+    "word": "Expedient",
+    "definition": "Convenient and practical, though sometimes improper.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Cutting corners was expedient but ultimately costly."
+    ]
+  },
+  {
+    "word": "Extraneous",
+    "definition": "Irrelevant; not belonging or essential.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The editor cut every extraneous detail."
+    ]
+  },
+  {
+    "word": "Facetious",
+    "definition": "Joking, often inappropriately; not meant seriously.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His facetious reply annoyed the interviewer."
+    ]
+  },
+  {
+    "word": "Fallacious",
+    "definition": "Based on a mistake in logic; deceptive or unsound.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The ad rested on a fallacious appeal to fear."
+    ]
+  },
+  {
+    "word": "Fastidious",
+    "definition": "Excessively attentive to detail; hard to please.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The fastidious editor caught every stray comma."
+    ]
+  },
+  {
+    "word": "Fatuous",
+    "definition": "Silly and pointless; foolishly self-satisfied.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "He made a fatuous remark that drew groans."
+    ]
+  },
+  {
+    "word": "Fecund",
+    "definition": "Highly fertile; producing abundant growth or ideas.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "His fecund imagination produced a novel every season."
+    ]
+  },
+  {
+    "word": "Fervid",
+    "definition": "Intensely passionate or enthusiastic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The crowd greeted the singer with fervid applause."
+    ]
+  },
+  {
+    "word": "Fidelity",
+    "definition": "Faithfulness and loyalty; accuracy of reproduction.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The translation kept remarkable fidelity to the original."
+    ]
+  },
+  {
+    "word": "Fledgling",
+    "definition": "New and inexperienced; a beginner.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The fledgling company had only three employees."
+    ]
+  },
+  {
+    "word": "Flout",
+    "definition": "Openly disregard a rule or convention with contempt.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Drivers routinely flout the speed limit here."
+    ]
+  },
+  {
+    "word": "Foment",
+    "definition": "Incite or stir up trouble or unrest.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Agitators tried to foment rebellion among the workers."
+    ]
+  },
+  {
+    "word": "Forestall",
+    "definition": "Prevent or delay by taking action beforehand.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The company cut prices to forestall a rival's entry."
+    ]
+  },
+  {
+    "word": "Fortuitous",
+    "definition": "Happening by chance, typically a lucky one.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Their meeting at the airport was entirely fortuitous."
+    ]
+  },
+  {
+    "word": "Frugal",
+    "definition": "Economical and thrifty; not wasteful.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Their frugal habits let them save for a house."
+    ]
+  },
+  {
+    "word": "Furtive",
+    "definition": "Done secretly; stealthy and sly.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He cast a furtive glance over his shoulder."
+    ]
+  },
+  {
+    "word": "Futile",
+    "definition": "Producing no useful result; pointless.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Further argument was futile, so she left."
+    ]
+  },
+  {
+    "word": "Garrulous",
+    "definition": "Excessively talkative, especially about trivial matters.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The garrulous cab driver talked the whole way downtown."
+    ]
+  },
+  {
+    "word": "Germane",
+    "definition": "Relevant and appropriate; on-topic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Her question was germane to the day's discussion."
+    ]
+  },
+  {
+    "word": "Glib",
+    "definition": "Fluent and easy in a way that suggests insincerity.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His glib answers failed to reassure the investors."
+    ]
+  },
+  {
+    "word": "Gregarious",
+    "definition": "Sociable; fond of the company of others.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The gregarious host knew everyone at the party."
+    ]
+  },
+  {
+    "word": "Guile",
+    "definition": "Clever deceit; cunning and craftiness.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "He won the negotiation through guile rather than strength."
+    ]
+  },
+  {
+    "word": "Hackneyed",
+    "definition": "Overused to the point of being stale; unoriginal.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The plot relied on hackneyed clichés."
+    ]
+  },
+  {
+    "word": "Halcyon",
+    "definition": "Calm, peaceful, and prosperous; idyllically happy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "She looked back on the halcyon days of her youth."
+    ]
+  },
+  {
+    "word": "Hapless",
+    "definition": "Unlucky; unfortunate.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The hapless traveler missed every connecting flight."
+    ]
+  },
+  {
+    "word": "Harangue",
+    "definition": "A long, intense, and often scolding verbal attack.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The coach launched into a harangue about missed practices."
+    ]
+  },
+  {
+    "word": "Hegemony",
+    "definition": "Dominance or leadership, especially of one state over others.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "The empire's hegemony extended across three continents."
+    ]
+  },
+  {
+    "word": "Heterogeneous",
+    "definition": "Composed of different or diverse kinds of elements.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The class was a heterogeneous mix of ages and backgrounds."
+    ]
+  },
+  {
+    "word": "Homogeneous",
+    "definition": "Of the same kind; uniform throughout.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The suburb was strikingly homogeneous in taste and income."
+    ]
+  },
+  {
+    "word": "Iconoclast",
+    "definition": "One who attacks cherished beliefs or institutions.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "As an iconoclast, she delighted in overturning tradition."
+    ]
+  },
+  {
+    "word": "Idiosyncrasy",
+    "definition": "A peculiar habit or quirk specific to an individual.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "Chewing his pen was one of his many idiosyncrasies."
+    ]
+  },
+  {
+    "word": "Ignoble",
+    "definition": "Dishonorable; having base or low motives.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He was ashamed of his ignoble desire for revenge."
+    ]
+  },
+  {
+    "word": "Imminent",
+    "definition": "About to happen; impending.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Dark clouds warned of an imminent storm."
+    ]
+  },
+  {
+    "word": "Immutable",
+    "definition": "Unchangeable; not able to be altered.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The laws of physics are, so far as we know, immutable."
+    ]
+  },
+  {
+    "word": "Impartial",
+    "definition": "Unbiased and fair; not favoring one side.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "An impartial panel reviewed the complaints."
+    ]
+  },
+  {
+    "word": "Impassive",
+    "definition": "Showing no emotion or physical feeling.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Her impassive face gave nothing away."
+    ]
+  },
+  {
+    "word": "Impecunious",
+    "definition": "Having little or no money; poor.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The impecunious student survived on bread and tea."
+    ]
+  },
+  {
+    "word": "Impede",
+    "definition": "Hinder or obstruct the progress of.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Fallen trees impeded the rescue crews."
+    ]
+  },
+  {
+    "word": "Imperious",
+    "definition": "Domineering and commanding; arrogantly overbearing.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "She dismissed the waiter with an imperious wave."
+    ]
+  },
+  {
+    "word": "Impervious",
+    "definition": "Unable to be affected or penetrated.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He seemed impervious to criticism."
+    ]
+  },
+  {
+    "word": "Impetuous",
+    "definition": "Acting on sudden impulse; hasty and rash.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Her impetuous decision to quit surprised everyone."
+    ]
+  },
+  {
+    "word": "Implacable",
+    "definition": "Unable to be appeased or calmed; relentless.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He faced the implacable opposition of the board."
+    ]
+  },
+  {
+    "word": "Implicit",
+    "definition": "Implied though not directly stated; unquestioning.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "There was an implicit warning in her tone."
+    ]
+  },
+  {
+    "word": "Inadvertent",
+    "definition": "Unintentional; resulting from carelessness.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "An inadvertent error deleted the whole file."
+    ]
+  },
+  {
+    "word": "Inchoate",
+    "definition": "Just begun and not fully formed; rudimentary.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The plan was still inchoate and full of gaps."
+    ]
+  },
+  {
+    "word": "Incipient",
+    "definition": "In an early stage; just beginning to appear.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Regulators watched the incipient industry closely."
+    ]
+  },
+  {
+    "word": "Incongruous",
+    "definition": "Out of place; not harmonious or fitting.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The neon sign looked incongruous on the old stone church."
+    ]
+  },
+  {
+    "word": "Indigence",
+    "definition": "Extreme poverty.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "The charity aids families living in indigence."
+    ]
+  },
+  {
+    "word": "Indolent",
+    "definition": "Wanting to avoid activity or exertion; lazy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His indolent habits frustrated his ambitious partner."
+    ]
+  },
+  {
+    "word": "Inert",
+    "definition": "Inactive; having little or no power to move or react.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The gas is inert and will not burn."
+    ]
+  },
+  {
+    "word": "Inexorable",
+    "definition": "Relentless; impossible to stop or persuade.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The inexorable march of technology reshaped the industry."
+    ]
+  },
+  {
+    "word": "Ingenuous",
+    "definition": "Innocent and unsuspecting; frank and candid.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His ingenuous smile disarmed the skeptical crowd."
+    ]
+  },
+  {
+    "word": "Inimical",
+    "definition": "Hostile; tending to obstruct or harm.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The policy was inimical to free trade."
+    ]
+  },
+  {
+    "word": "Innocuous",
+    "definition": "Harmless; unlikely to offend or cause injury.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "What began as an innocuous joke spiraled into a feud."
+    ]
+  },
+  {
+    "word": "Insipid",
+    "definition": "Lacking flavor, vigor, or interest; dull.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Critics found the sequel insipid and forgettable."
+    ]
+  },
+  {
+    "word": "Insular",
+    "definition": "Narrow-minded; isolated and detached from broader views.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The village had an insular distrust of outsiders."
+    ]
+  },
+  {
+    "word": "Intransigent",
+    "definition": "Refusing to compromise; stubbornly inflexible.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The intransigent union rejected every proposal."
+    ]
+  },
+  {
+    "word": "Intrepid",
+    "definition": "Fearless and brave; enduring in the face of danger.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The intrepid explorer crossed the frozen strait alone."
+    ]
+  },
+  {
+    "word": "Intrinsic",
+    "definition": "Belonging to the essential nature of a thing.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The painting has intrinsic as well as historical value."
+    ]
+  },
+  {
+    "word": "Inundate",
+    "definition": "Flood or overwhelm.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The office was inundated with complaints."
+    ]
+  },
+  {
+    "word": "Invective",
+    "definition": "Violent denunciation; abusive language.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "The debate degenerated into personal invective."
+    ]
+  },
+  {
+    "word": "Irascible",
+    "definition": "Easily angered; quick-tempered.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The irascible old man shouted at the delivery boy."
+    ]
+  },
+  {
+    "word": "Itinerant",
+    "definition": "Traveling from place to place, especially for work.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He spent years as an itinerant musician."
+    ]
+  },
+  {
+    "word": "Jettison",
+    "definition": "Discard or cast off, especially to lighten a load.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The team jettisoned the plan when funding fell through."
+    ]
+  },
+  {
+    "word": "Judicious",
+    "definition": "Showing good judgment; wise and sensible.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "A judicious use of resources kept the project alive."
+    ]
+  },
+  {
+    "word": "Juxtapose",
+    "definition": "Place side by side for contrast or comparison.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The exhibit juxtaposes ancient and modern art."
+    ]
+  },
+  {
+    "word": "Kindle",
+    "definition": "Ignite or arouse; stir into being.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The trip kindled her interest in geology."
+    ]
+  },
+  {
+    "word": "Laconic",
+    "definition": "Using very few words; terse.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His laconic reply was simply, \"We'll see.\""
+    ]
+  },
+  {
+    "word": "Languid",
+    "definition": "Sluggish and slow; lacking energy or spirit.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "They spent a languid afternoon by the river."
+    ]
+  },
+  {
+    "word": "Latent",
+    "definition": "Existing but not yet visible or active; hidden.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The training revealed a latent talent for design."
+    ]
+  },
+  {
+    "word": "Laudable",
+    "definition": "Deserving praise; commendable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Her efforts to help were laudable, if unsuccessful."
+    ]
+  },
+  {
+    "word": "Lavish",
+    "definition": "Abundant or extravagant; giving in great quantity.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "They threw a lavish party for the anniversary."
+    ]
+  },
+  {
+    "word": "Lethargic",
+    "definition": "Sluggish, drowsy, and lacking energy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The heat left everyone lethargic by noon."
+    ]
+  },
+  {
+    "word": "Levity",
+    "definition": "Lightness of mood; lack of seriousness.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "A moment of levity broke the tension in the room."
+    ]
+  },
+  {
+    "word": "Loquacious",
+    "definition": "Very talkative; wordy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The loquacious guide barely paused for breath."
+    ]
+  },
+  {
+    "word": "Lucid",
+    "definition": "Clear and easy to understand; rational.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She gave a lucid summary of the complex case."
+    ]
+  },
+  {
+    "word": "Lugubrious",
+    "definition": "Looking or sounding sad and dismal.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "He recounted the tale in a lugubrious tone."
+    ]
+  },
+  {
+    "word": "Magnanimous",
+    "definition": "Generous or forgiving, especially toward a rival.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "In victory she was magnanimous, praising her opponent."
+    ]
+  },
+  {
+    "word": "Malleable",
+    "definition": "Easily shaped or influenced.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Young recruits were seen as malleable and eager."
+    ]
+  },
+  {
+    "word": "Maverick",
+    "definition": "An independent-minded rebel or dissenter.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The maverick senator often broke with her party."
+    ]
+  },
+  {
+    "word": "Mendacious",
+    "definition": "Untruthful; habitually lying.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The mendacious witness contradicted himself repeatedly."
+    ]
+  },
+  {
+    "word": "Mercurial",
+    "definition": "Subject to sudden, unpredictable changes of mood.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His mercurial temper made him hard to work with."
+    ]
+  },
+  {
+    "word": "Meticulous",
+    "definition": "Showing great, precise attention to detail.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "She kept meticulous records of every transaction."
+    ]
+  },
+  {
+    "word": "Mitigate",
+    "definition": "Make less severe or painful; moderate.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Sea walls were built to mitigate the flooding."
+    ]
+  },
+  {
+    "word": "Mollify",
+    "definition": "Appease or soothe the anger of.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "He offered a refund to mollify the furious customer."
+    ]
+  },
+  {
+    "word": "Morose",
+    "definition": "Gloomy and sullen.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He grew morose after the news of the loss."
+    ]
+  },
+  {
+    "word": "Mundane",
+    "definition": "Common, ordinary, and everyday.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Behind the mystery lay a mundane accounting error."
+    ]
+  },
+  {
+    "word": "Munificent",
+    "definition": "Very generous; giving liberally.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "A munificent donor funded the entire wing."
+    ]
+  },
+  {
+    "word": "Myopic",
+    "definition": "Short-sighted; lacking long-term thinking.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The myopic policy ignored the coming crisis."
+    ]
+  },
+  {
+    "word": "Nadir",
+    "definition": "The lowest point.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The defeat marked the nadir of his career."
+    ]
+  },
+  {
+    "word": "Nascent",
+    "definition": "Coming into existence; still developing.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The nascent movement had few resources."
+    ]
+  },
+  {
+    "word": "Negate",
+    "definition": "Deny or refute; make ineffective.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "One careless remark negated hours of goodwill."
+    ]
+  },
+  {
+    "word": "Neophyte",
+    "definition": "A beginner or novice.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "As a neophyte, he made every rookie mistake."
+    ]
+  },
+  {
+    "word": "Notoriety",
+    "definition": "Fame for a disgraceful or unfavorable reason.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The scandal brought him instant notoriety."
+    ]
+  },
+  {
+    "word": "Nuance",
+    "definition": "A subtle difference in meaning, tone, or expression.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "A good translator captures every nuance."
+    ]
+  },
+  {
+    "word": "Obdurate",
+    "definition": "Stubborn; hardened against persuasion or feeling.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "He remained obdurate despite all the evidence."
+    ]
+  },
+  {
+    "word": "Obsequious",
+    "definition": "Excessively obedient or attentive; fawning.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The obsequious waiter hovered anxiously by the table."
+    ]
+  },
+  {
+    "word": "Obstinate",
+    "definition": "Stubbornly refusing to change one's mind or course.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The obstinate child refused to put on his coat."
+    ]
+  },
+  {
+    "word": "Obviate",
+    "definition": "Prevent or make unnecessary.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "A clear contract would obviate future disputes."
+    ]
+  },
+  {
+    "word": "Officious",
+    "definition": "Meddlesome; overly eager to give unwanted advice.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The officious clerk insisted on rechecking every form."
+    ]
+  },
+  {
+    "word": "Onerous",
+    "definition": "Involving an oppressively heavy burden.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The contract imposed onerous obligations on tenants."
+    ]
+  },
+  {
+    "word": "Opaque",
+    "definition": "Not transparent; hard to understand or unclear.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The instructions were so opaque no one could follow them."
+    ]
+  },
+  {
+    "word": "Opprobrium",
+    "definition": "Harsh disgrace and public disapproval.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "The verdict brought opprobrium upon the whole firm."
+    ]
+  },
+  {
+    "word": "Orthodox",
+    "definition": "Conforming to established or traditional beliefs.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She challenged the orthodox view of the disease."
+    ]
+  },
+  {
+    "word": "Ostentatious",
+    "definition": "Showy; designed to impress or attract notice.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The mansion's ostentatious decor drew stares."
+    ]
+  },
+  {
+    "word": "Paragon",
+    "definition": "A model of excellence; a perfect example.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "She was held up as a paragon of professional integrity."
+    ]
+  },
+  {
+    "word": "Partisan",
+    "definition": "Strongly devoted to a party or cause; biased.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The bill split the chamber along partisan lines."
+    ]
+  },
+  {
+    "word": "Paucity",
+    "definition": "Scarcity; smallness of number or quantity.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "There is a paucity of evidence for the claim."
+    ]
+  },
+  {
+    "word": "Pedant",
+    "definition": "One who overemphasizes rules or shows off learning.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "Only a pedant would object to such a minor slip."
+    ]
+  },
+  {
+    "word": "Penchant",
+    "definition": "A strong liking or inclination.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "She has a penchant for old jazz records."
+    ]
+  },
+  {
+    "word": "Penury",
+    "definition": "Extreme poverty or scarcity.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "He spent his final years in penury."
+    ]
+  },
+  {
+    "word": "Perfidious",
+    "definition": "Deceitful and untrustworthy; treacherous.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The perfidious ally secretly aided the enemy."
+    ]
+  },
+  {
+    "word": "Perfunctory",
+    "definition": "Done with minimal effort or care; routine.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He gave a perfunctory nod and walked on."
+    ]
+  },
+  {
+    "word": "Pernicious",
+    "definition": "Having a harmful effect, especially gradually.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The rumor had a pernicious effect on morale."
+    ]
+  },
+  {
+    "word": "Perspicacious",
+    "definition": "Having keen insight and discernment.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "Her perspicacious analysis anticipated the crash."
+    ]
+  },
+  {
+    "word": "Pervasive",
+    "definition": "Spreading widely throughout.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "A pervasive sense of unease filled the office."
+    ]
+  },
+  {
+    "word": "Philanthropy",
+    "definition": "Efforts to improve human welfare, usually by giving money.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "Her philanthropy funded dozens of new schools."
+    ]
+  },
+  {
+    "word": "Phlegmatic",
+    "definition": "Calm and unemotional; not easily excited.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The phlegmatic captain stayed calm through the storm."
+    ]
+  },
+  {
+    "word": "Placate",
+    "definition": "Make less angry or hostile; appease.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The airline offered vouchers to placate stranded passengers."
+    ]
+  },
+  {
+    "word": "Placid",
+    "definition": "Peaceful, calm, and untroubled.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The placid lake mirrored the mountains."
+    ]
+  },
+  {
+    "word": "Platitude",
+    "definition": "A trite, overused remark presented as fresh.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The speech offered nothing but platitudes about hard work."
+    ]
+  },
+  {
+    "word": "Plausible",
+    "definition": "Believable; having the appearance of truth.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He gave a plausible excuse for the delay."
+    ]
+  },
+  {
+    "word": "Plethora",
+    "definition": "An excess; an overabundance.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The menu offered a plethora of choices."
+    ]
+  },
+  {
+    "word": "Polemic",
+    "definition": "A strong verbal or written attack on an idea.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The essay was a fierce polemic against censorship."
+    ]
+  },
+  {
+    "word": "Ponderous",
+    "definition": "Heavy and unwieldy; dull and labored.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The ponderous report put readers to sleep."
+    ]
+  },
+  {
+    "word": "Pragmatic",
+    "definition": "Practical; concerned with facts and results.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She took a pragmatic approach to the budget crisis."
+    ]
+  },
+  {
+    "word": "Precarious",
+    "definition": "Dangerously insecure or unstable; likely to fail.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The company's finances were in a precarious state."
+    ]
+  },
+  {
+    "word": "Precipitate",
+    "definition": "Cause to happen suddenly or prematurely.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The scandal precipitated the CEO's resignation."
+    ]
+  },
+  {
+    "word": "Predilection",
+    "definition": "A preference or special liking for something.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "His predilection for risk worried the investors."
+    ]
+  },
+  {
+    "word": "Presumptuous",
+    "definition": "Overstepping proper bounds; too bold or forward.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "It was presumptuous of him to answer for the whole group."
+    ]
+  },
+  {
+    "word": "Pretentious",
+    "definition": "Attempting to impress by affecting greater importance than is real.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The review mocked the film's pretentious dialogue."
+    ]
+  },
+  {
+    "word": "Prevaricate",
+    "definition": "Speak or act evasively to avoid the truth.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "Instead of admitting fault, she prevaricated."
+    ]
+  },
+  {
+    "word": "Pristine",
+    "definition": "In an original, pure, and unspoiled state.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The car was in pristine condition despite its age."
+    ]
+  },
+  {
+    "word": "Probity",
+    "definition": "Honesty and strong moral integrity.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "The judge was known for her probity and fairness."
+    ]
+  },
+  {
+    "word": "Prodigal",
+    "definition": "Recklessly wasteful; extravagant.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His prodigal spending soon emptied the trust."
+    ]
+  },
+  {
+    "word": "Prodigious",
+    "definition": "Remarkably large or impressive.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "She had a prodigious memory for names."
+    ]
+  },
+  {
+    "word": "Profligate",
+    "definition": "Shamelessly immoral or extravagantly wasteful.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Critics attacked the profligate use of public funds."
+    ]
+  },
+  {
+    "word": "Profound",
+    "definition": "Very deep or insightful; far-reaching.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "The loss had a profound effect on the whole town."
+    ]
+  },
+  {
+    "word": "Proliferate",
+    "definition": "Increase or spread rapidly.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "Copycat apps proliferated after the hit's release."
+    ]
+  },
+  {
+    "word": "Prolix",
+    "definition": "Tediously long and wordy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The prolix report could have been half its length."
+    ]
+  },
+  {
+    "word": "Propensity",
+    "definition": "A natural inclination or tendency.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "He has a propensity to interrupt."
+    ]
+  },
+  {
+    "word": "Propitiate",
+    "definition": "Appease or win the favor of someone who is angry.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "Offerings were made to propitiate the gods."
+    ]
+  },
+  {
+    "word": "Propriety",
+    "definition": "Conformity to accepted standards of behavior.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "She questioned the propriety of accepting the gift."
+    ]
+  },
+  {
+    "word": "Prosaic",
+    "definition": "Dull and ordinary; lacking imagination.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The explanation was disappointingly prosaic."
+    ]
+  },
+  {
+    "word": "Proscribe",
+    "definition": "Forbid or prohibit; denounce.",
+    "partOfSpeech": "verb",
+    "difficulty": 5,
+    "examples": [
+      "The regime proscribed all opposition parties."
+    ]
+  },
+  {
+    "word": "Prudent",
+    "definition": "Wise and careful in practical matters.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "It was prudent to save for emergencies."
+    ]
+  },
+  {
+    "word": "Puerile",
+    "definition": "Childish and immature.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His puerile pranks embarrassed the whole team."
+    ]
+  },
+  {
+    "word": "Pugnacious",
+    "definition": "Eager to argue or fight; combative.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The pugnacious columnist relished a good feud."
+    ]
+  },
+  {
+    "word": "Pungent",
+    "definition": "Having a sharp taste or smell; biting.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The pungent aroma of garlic filled the kitchen."
+    ]
+  },
+  {
+    "word": "Quandary",
+    "definition": "A state of uncertainty or perplexity; a dilemma.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "She was in a quandary over which offer to accept."
+    ]
+  },
+  {
+    "word": "Querulous",
+    "definition": "Given to complaining; peevish.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "His querulous tone wore on everyone's nerves."
+    ]
+  },
+  {
+    "word": "Quiescent",
+    "definition": "In a state of inactivity or dormancy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The volcano had been quiescent for a century."
+    ]
+  },
+  {
+    "word": "Quixotic",
+    "definition": "Extremely idealistic and impractical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His quixotic plan to end all poverty won few backers."
+    ]
+  },
+  {
+    "word": "Rarefied",
+    "definition": "Elevated or exclusive; select and refined.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "She moved in the rarefied world of high finance."
+    ]
+  },
+  {
+    "word": "Recalcitrant",
+    "definition": "Stubbornly resistant to authority or control.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The recalcitrant students ignored every rule."
+    ]
+  },
+  {
+    "word": "Recant",
+    "definition": "Withdraw or formally disavow a former statement.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Under pressure, the scientist recanted his findings."
+    ]
+  },
+  {
+    "word": "Recluse",
+    "definition": "A person who lives in seclusion.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The aging author became a recluse."
+    ]
+  },
+  {
+    "word": "Recondite",
+    "definition": "Dealing with an obscure subject; hard to understand.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The paper's recondite arguments lost most readers."
+    ]
+  },
+  {
+    "word": "Refute",
+    "definition": "Prove to be false or wrong.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The data refuted his central claim."
+    ]
+  },
+  {
+    "word": "Relegate",
+    "definition": "Assign to an inferior position or place.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The story was relegated to the back page."
+    ]
+  },
+  {
+    "word": "Reproach",
+    "definition": "Express disapproval or disappointment in.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "She reproached him for forgetting the meeting."
+    ]
+  },
+  {
+    "word": "Repudiate",
+    "definition": "Reject or disown; deny the authority of.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The party repudiated its former leader."
+    ]
+  },
+  {
+    "word": "Rescind",
+    "definition": "Annul or repeal; cancel officially.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The board voted to rescind the controversial rule."
+    ]
+  },
+  {
+    "word": "Reticent",
+    "definition": "Reserved; reluctant to reveal thoughts or feelings.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "She was reticent about her plans for the future."
+    ]
+  },
+  {
+    "word": "Reverent",
+    "definition": "Feeling or showing deep respect and awe.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "A reverent hush fell over the cathedral."
+    ]
+  },
+  {
+    "word": "Sagacious",
+    "definition": "Wise; showing keen judgment and foresight.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The sagacious advisor foresaw the coming crisis."
+    ]
+  },
+  {
+    "word": "Salient",
+    "definition": "Most noticeable or important; standing out.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "She summarized the salient points in a minute."
+    ]
+  },
+  {
+    "word": "Sanguine",
+    "definition": "Optimistic and hopeful, especially in a hard situation.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "She remained sanguine about the company's prospects."
+    ]
+  },
+  {
+    "word": "Sardonic",
+    "definition": "Grimly mocking or cynical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "He gave a sardonic laugh at the naive proposal."
+    ]
+  },
+  {
+    "word": "Scathing",
+    "definition": "Bitterly harsh or severely critical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The review was scathing, sparing no one."
+    ]
+  },
+  {
+    "word": "Sedulous",
+    "definition": "Diligent, persistent, and hardworking.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "Her sedulous research filled a dozen notebooks."
+    ]
+  },
+  {
+    "word": "Skeptic",
+    "definition": "One inclined to doubt accepted beliefs.",
+    "partOfSpeech": "noun",
+    "difficulty": 2,
+    "examples": [
+      "A lifelong skeptic, he questioned every headline."
+    ]
+  },
+  {
+    "word": "Solicitous",
+    "definition": "Showing anxious care or concern for someone.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The nurse was solicitous of every patient's comfort."
+    ]
+  },
+  {
+    "word": "Soporific",
+    "definition": "Tending to induce drowsiness or sleep.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The lecture's soporific drone put half the room to sleep."
+    ]
+  },
+  {
+    "word": "Spartan",
+    "definition": "Marked by strict self-discipline and simplicity; austere.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The recruits endured spartan living conditions."
+    ]
+  },
+  {
+    "word": "Specious",
+    "definition": "Seemingly true but actually false; deceptively attractive.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His argument was specious but momentarily convincing."
+    ]
+  },
+  {
+    "word": "Sporadic",
+    "definition": "Occurring at irregular intervals; scattered.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Sporadic gunfire could be heard through the night."
+    ]
+  },
+  {
+    "word": "Squalid",
+    "definition": "Filthy and neglected; morally degraded.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Families were crowded into squalid housing."
+    ]
+  },
+  {
+    "word": "Stoic",
+    "definition": "Enduring pain or hardship without showing feelings.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "He remained stoic even as the news worsened."
+    ]
+  },
+  {
+    "word": "Stolid",
+    "definition": "Calm and showing little emotion; not easily moved.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The stolid guard ignored the taunts entirely."
+    ]
+  },
+  {
+    "word": "Stymie",
+    "definition": "Block, hinder, or thwart.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "Budget cuts stymied the research team."
+    ]
+  },
+  {
+    "word": "Sublime",
+    "definition": "Of outstanding grandeur; inspiring awe.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The summit offered a view of sublime beauty."
+    ]
+  },
+  {
+    "word": "Substantiate",
+    "definition": "Support with evidence or proof.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "He could not substantiate the accusation."
+    ]
+  },
+  {
+    "word": "Supersede",
+    "definition": "Replace or take the place of something outdated.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The new rules supersede all previous versions."
+    ]
+  },
+  {
+    "word": "Supplant",
+    "definition": "Take the place of, especially through scheming.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "The deputy quietly supplanted his rival."
+    ]
+  },
+  {
+    "word": "Surfeit",
+    "definition": "An excessive amount; overindulgence.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "A surfeit of choices left shoppers paralyzed."
+    ]
+  },
+  {
+    "word": "Sycophant",
+    "definition": "A servile flatterer who fawns to gain advantage.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The king was surrounded by sycophants."
+    ]
+  },
+  {
+    "word": "Taciturn",
+    "definition": "Reserved and saying little.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The taciturn farmer answered only in nods."
+    ]
+  },
+  {
+    "word": "Tangential",
+    "definition": "Only slightly relevant; going off topic.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "His remarks were tangential to the main issue."
+    ]
+  },
+  {
+    "word": "Tenuous",
+    "definition": "Very weak or slight; flimsy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The link between the two events is tenuous."
+    ]
+  },
+  {
+    "word": "Terse",
+    "definition": "Brief and to the point, sometimes curtly so.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Her terse reply ended the conversation."
+    ]
+  },
+  {
+    "word": "Timorous",
+    "definition": "Timid and fearful.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The timorous recruit flinched at every command."
+    ]
+  },
+  {
+    "word": "Tirade",
+    "definition": "A long, angry speech of criticism or accusation.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "He launched into a tirade against the referee."
+    ]
+  },
+  {
+    "word": "Torpor",
+    "definition": "Sluggishness, lethargy, or a state of inactivity.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "A midsummer torpor settled over the town."
+    ]
+  },
+  {
+    "word": "Tortuous",
+    "definition": "Full of twists and turns; complex or devious.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The negotiations followed a tortuous path."
+    ]
+  },
+  {
+    "word": "Tractable",
+    "definition": "Easy to control, manage, or shape; docile.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The problem proved more tractable than expected."
+    ]
+  },
+  {
+    "word": "Transitory",
+    "definition": "Lasting only a short time; temporary.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Fame proved transitory and quickly faded."
+    ]
+  },
+  {
+    "word": "Trenchant",
+    "definition": "Vigorous, incisive, and effective; sharply critical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "Her trenchant critique exposed the plan's flaws."
+    ]
+  },
+  {
+    "word": "Trite",
+    "definition": "Overused and lacking freshness; clichéd.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The ending felt trite and predictable."
+    ]
+  },
+  {
+    "word": "Truculent",
+    "definition": "Aggressively defiant; eager to fight.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "He responded to criticism with truculent hostility."
+    ]
+  },
+  {
+    "word": "Turgid",
+    "definition": "Swollen; or, of language, pompous and overblown.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "The turgid prose obscured a simple idea."
+    ]
+  },
+  {
+    "word": "Turpitude",
+    "definition": "Depravity; baseness of character.",
+    "partOfSpeech": "noun",
+    "difficulty": 5,
+    "examples": [
+      "He was expelled for moral turpitude."
+    ]
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "Present or found everywhere.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "Smartphones have become ubiquitous in daily life."
+    ]
+  },
+  {
+    "word": "Umbrage",
+    "definition": "Offense or annoyance.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "She took umbrage at the implication that she was lazy."
+    ]
+  },
+  {
+    "word": "Unequivocal",
+    "definition": "Leaving no doubt; clear and absolute.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The evidence was unequivocal proof of fraud."
+    ]
+  },
+  {
+    "word": "Vacillate",
+    "definition": "Waver between opinions or actions; be indecisive.",
+    "partOfSpeech": "verb",
+    "difficulty": 4,
+    "examples": [
+      "She vacillated for weeks before accepting the offer."
+    ]
+  },
+  {
+    "word": "Venerate",
+    "definition": "Regard with great respect; revere.",
+    "partOfSpeech": "verb",
+    "difficulty": 3,
+    "examples": [
+      "The villagers venerate their elders."
+    ]
+  },
+  {
+    "word": "Veracity",
+    "definition": "Truthfulness; accuracy.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The court questioned the veracity of his account."
+    ]
+  },
+  {
+    "word": "Verbose",
+    "definition": "Using more words than needed; wordy.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The manual was so verbose that no one read it."
+    ]
+  },
+  {
+    "word": "Vestige",
+    "definition": "A trace or remnant of something that once existed.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "Not a vestige of the old fort remains."
+    ]
+  },
+  {
+    "word": "Viable",
+    "definition": "Capable of working or surviving; practical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The committee sought a financially viable plan."
+    ]
+  },
+  {
+    "word": "Virulent",
+    "definition": "Extremely harmful or infectious; bitterly hostile.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "The virulent strain spread through the ward."
+    ]
+  },
+  {
+    "word": "Vitriol",
+    "definition": "Cruelly bitter criticism or hostility.",
+    "partOfSpeech": "noun",
+    "difficulty": 4,
+    "examples": [
+      "The comments section was full of vitriol."
+    ]
+  },
+  {
+    "word": "Vociferous",
+    "definition": "Loud and insistent in expression; clamorous.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Vociferous protesters filled the square."
+    ]
+  },
+  {
+    "word": "Volatile",
+    "definition": "Liable to sudden change; unstable or explosive.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The stock proved too volatile for cautious investors."
+    ]
+  },
+  {
+    "word": "Voluble",
+    "definition": "Speaking easily and at great length; fluent.",
+    "partOfSpeech": "adjective",
+    "difficulty": 5,
+    "examples": [
+      "She grew voluble after a cup of coffee."
+    ]
+  },
+  {
+    "word": "Wary",
+    "definition": "Cautious and watchful against danger.",
+    "partOfSpeech": "adjective",
+    "difficulty": 2,
+    "examples": [
+      "Investors were wary of the untested market."
+    ]
+  },
+  {
+    "word": "Whimsical",
+    "definition": "Playfully fanciful; erratic and unpredictable.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The garden was full of whimsical sculptures."
+    ]
+  },
+  {
+    "word": "Wily",
+    "definition": "Crafty and cunning; full of tricks.",
+    "partOfSpeech": "adjective",
+    "difficulty": 3,
+    "examples": [
+      "The wily fox slipped past the hounds."
+    ]
+  },
+  {
+    "word": "Winsome",
+    "definition": "Charming and engaging in a sweet, innocent way.",
+    "partOfSpeech": "adjective",
+    "difficulty": 4,
+    "examples": [
+      "Her winsome smile put the children at ease."
+    ]
+  },
+  {
+    "word": "Zeal",
+    "definition": "Great energy or enthusiasm for a cause.",
+    "partOfSpeech": "noun",
+    "difficulty": 2,
+    "examples": [
+      "He pursued the reform with tireless zeal."
+    ]
+  },
+  {
+    "word": "Zenith",
+    "definition": "The highest point; the peak.",
+    "partOfSpeech": "noun",
+    "difficulty": 3,
+    "examples": [
+      "The band was at the zenith of its fame."
+    ]
+  }
+]
