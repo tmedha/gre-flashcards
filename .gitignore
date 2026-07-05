@@ -1,0 +1,15 @@
+# Node / frontend
+node_modules/
+dist/
+
+# Java / backend
+target/
+
+# H2 embedded database
+data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
